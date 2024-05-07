@@ -1,0 +1,1182 @@
+[
+  {
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "price": 109.95,
+    "featured": true,
+    "rating": 3.9,
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "category": "Men"
+  },
+  {
+    "name": "Mens Casual Premium Slim Fit T-Shirts",
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "price": 22.3,
+    "featured": false,
+    "rating": 4.1,
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "category": "Men"
+  },
+  {
+    "name": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "Men",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": 4.7
+  },
+  {
+    "name": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "Men",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": 2.1
+  },
+  {
+    "name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "Jewellery",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "Jewellery",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": 3.9
+  },
+  {
+    "name": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "Jewellery",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": 3
+  },
+  {
+    "name": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "Jewellery",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": 1.9
+  },
+  {
+    "name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "Electronics",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": 3.3
+  },
+  {
+    "name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "Electronics",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": 2.9
+  },
+  {
+    "name": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "Electronics",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "Electronics",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "Electronics",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": 2.9
+  },
+  {
+    "name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "Electronics",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": 2.2
+  },
+  {
+    "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "Women",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": 2.6
+  },
+  {
+    "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "Women",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": 2.9
+  },
+  {
+    "name": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "Women",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": 3.8
+  },
+  {
+    "name": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "Women",
+    "featured": false,
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": 4.7
+  },
+  {
+    "name": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "Women",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "Women",
+    "featured": true,
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": 3.6
+  },
+  {
+    "name": "Calvin Klein Eternity Eau De Parfum Spray, Perfume for Women, 3.4 oz",
+    "description": "ETERNITY perfume was introduced by CALVIN KLEIN in 1988. This romantic floral fragrance contains freesia, mandarin, sage, muguet, white lily, patchouli, and sandalwood. Eternity body lotion worn with the perfume creates a romantic and luxurious fragrance all over. Eternity perfume is packaged in a clear glass bottle with a silver cap and is enclosed in a classic clean white box. Other fragrances from Calvin Klein include Eternity Moment and CK One.",
+    "price": 40.36,
+    "featured": false,
+    "rating": 4.8,
+    "image": "https://drive.google.com/file/d/16yDHFmwmvHpFQSY2N9JoySUIJWR7mIR5/view?usp=drive_link",
+    "brand": "Calvin Klein",
+    "category": "Beauty"
+  },
+  {
+    "name": "Wrangler Rustler Men's and Big Men's Regular Fit Jeans",
+    "description": "Rustler Regular Fit Jeans are a timeless staple. With a regular fit that sits at the natural waistline, these jeans can take you from your daily routine to a night on the town in minutes. Classic comfort pairs perfectly with an affordable price in these straight leg jeans. Since 1947, Wrangler has set the standard in genuine comfort and quality. With Western roots woven into every style, Wrangler is committed to offering legendary looks that fit right in with modern times while paying tribute to its rich legacy. Authenticity and value make Wrangler one of the most trusted brands in the world. Its collections for men, women, and children look and feel great, inspiring everyone who wears them to be strong and ready for everyday life.",
+    "price": 187.91,
+    "featured": false,
+    "rating": 3.3,
+    "image": "https://drive.google.com/file/d/1rdOYqGt4lPVr6b7xUxEt9kuEqocGlpk2/view?usp=drive_link",
+    "brand": "Rustler",
+    "category": "Men"
+  },
+  {
+    "name": "Woven Paths 360 Spinning Lockable Jewelry Armoire with Free-Standing Mirror, Brown",
+    "description": "The Woven Paths Jewelry Cabinet is a highly anticipated product and essential for female customers. The jewelry cabinet is designed and promotes easy access to makeup, jewelry, skincare, daily necessities in one stop. It is a sturdy and freestanding mirror that has many unique features and a cool design that allows for multiple purposes and functions. With the ability for the cabinet to hold up to 90 rings, 42 pairs of earrings, 30 necklaces, 2 storage bags, has 1 bracelet bar, and has 5 lined shelves for other items, this jewelry cabinet can help save lots of room for many individuals. Customers will not need to buy an extra mirror, cabinet, boxes, and trays just to store their accessories. Equipped with a front 56” long full-length mirror to provide you with a wide field of vision. This cabinet is also able to spin 360 degrees, which allows for easy access at any angle. With the door held by magnets and installed with a lock and key, customers are able to easily open and close the cabinet door and can lock their expensive accessories in a place that one no would ever think of.",
+    "price": 128.96,
+    "featured": false,
+    "rating": 4.1,
+    "image": "https://drive.google.com/file/d/1337elE1S1MmsmnLDmAjpJtqif_ISWz1H/view?usp=drive_link",
+    "brand": "Woven Paths",
+    "category": "Home"
+  },
+  {
+    "name": "Dyson Airwrap™ Multi-styler Complete Long | Nickel/Copper | Refurbished",
+    "description": "The Dyson Airwrap styler completely resets the world of hair styling. Coanda air styling propelled by the Dyson digital motor. Curl. Wave. Smooth. Dry. With no extreme heat. Engineered for multiple hair types and styles. Attracts and wraps hair, using only air – The Coanda effect attracts hair to the barrel, then wraps it for you, using only air. Styles and dries simultaneously – Engineered to style damp hair. Combines powerful airflow with controlled heat, to dry your hair as it styles. No extreme heat damage – Intelligent heat control measures air temperature over 40 times a second to prevent extreme heat damage. Engineered for different hair types - A range of attachments engineered for different hair types. Voluminous curls or waves - By using air, the Dyson Airwrap™ styler is able to create voluminous curls or waves with the barrel attachments. Smooth, straighter style - The Dyson smoothing brushes use the Coanda effect to attract hair to the surface of the brush, propelling air along the hair strands, to mimic a stylist's blow-dry technique. One-click attachments + cool-touch tips - A quick-release switch and cool-touch tip allow you to quickly change attachments after styling. Storage case - Protects and neatly stores your Dyson Airwrap™ styler and its attachments. ¹vs. original Dyson Airwrap™ styling attachments",
+    "price": 381.14,
+    "featured": false,
+    "rating": 3.9,
+    "image": "https://drive.google.com/file/d/1j9FECwDnkg9DimUJAzd_I32nbDX7UcRy/view?usp=drive_link",
+    "brand": "Dyson",
+    "category": "Beauty"
+  },
+  {
+    "name": "Umbro Neo Size 4 Soccer Ball for Kids 8-12 Years, Blue",
+    "description": "The Umbro Neo Size 4 Soccer Ball is ideal for advancing children's soccer skills or engaging in some light, low-stakes recreational play. Built to withstand intense play, this 32-panel soccer ball is made with durable casing, machine stitching, and a butyl bladder to promote shape retention and a more accurate trajectory. This size four soccer ball combines great touch and lightweight feel to deliver more consistent play for kids ages 8-12 years. With a bold blue design, getting your kids active and involved in the exciting world of soccer is all too easy!",
+    "price": 41.15,
+    "featured": false,
+    "rating": 4.8,
+    "image": "https://drive.google.com/file/d/1FHIijxxdCO4u2vS2NLNU6BKOwrIAn6-z/view?usp=drive_link",
+    "brand": "Umbro",
+    "category": "Sports"
+  },
+  {
+    "name": "Chefman ExacTemp 12 Quart 5-in-1 Air Fryer with Integrated Smart Thermometer, 28 Presets - Black, New",
+    "description": "The Chefman Multifunctional Air Fryer+ with Rotisserie, Toaster Oven, and Dehydrator Function handles any cooking, baking, or air frying task. With the efficient rapid air technology and high-speed convection oven system, you can quickly get an even, crispy fried texture using little-to-no oil. Perfect for feeding a crowd, this multifunctional air fryer features a 12-quart capacity and 28 preset options - use it to air fry veggies, roast a chicken, dehydrate fruit, bake a cake, reheat a pizza, and more! 120 Volts/1700 Watts – New RJ38-RDO-PV-12 16.34 in 15.75 in",
+    "price": 112.74,
+    "featured": false,
+    "rating": 3.1,
+    "image": "https://drive.google.com/file/d/1j2LJnQq4jnLliWqv0MfqiWfUBY0L35DB/view?usp=drive_link",
+    "brand": "Chefman",
+    "category": "Appliances"
+  },
+  {
+    "name": "Galaxy by Harvic 3-Pack Women's Loose Fit Fleece Jogger Sweatpants",
+    "description": "Galaxy by Harvic 3Pack Women Loose Fit Jogger Sweatpants S-2XL, Female color: Black 3-Pack Loose-Fitting Fleece Jogger Sweatpants Loose-Fit Design 2-Side Pockets & 1-Back Pocket Heavyweight Fleece To Keep You Warm Elastic Waistband Outer Drawstring Ribbed Cuffs & Ribbed Waistband Imported Material: 100% Polyester",
+    "price": 47.78,
+    "featured": false,
+    "rating": 3.6,
+    "image": "https://drive.google.com/file/d/1cHWl5U1SMeH4GI4wfOXNSYGR3N5h8u-Z/view?usp=drive_link",
+    "brand": "Galaxy by Harvic",
+    "category": "Clothes"
+  },
+  {
+    "name": "Fantaslook Blouses for Women Pleated Short Sleeve Tunic Tops Dressy Casual Summer Shirts",
+    "description": "Fantaslook Womens Short Sleeve Tunic Tops Pleated Crew Neck Blouses Dressy Casual Summer Shirts Womens tops and blouses is the must-have for a fashionable summer wardrobe. The womens blouses dressy casual tops are designed with pleated crew neck, floral shirts for women add a touch of sophistication to your ensemble while ensuring a comfortable fit, short sleeves and delicate back pleated, which make you more charming in your daily look. The pleated style in the middle gives a slimming effect to the waist as it cinches it in and looks really elegant. Womens tunic tops add a touch of femininity and accentuates your curves. Womens short sleeves tunic tops provide a breathable feel, making them ideal for warm summer days. The vibrant floral patterns add a playful and feminine touch, perfect for pairing with your favorite jeans or dressing up with a skirt. Whether you're headed to a summer soiree or a casual brunch with friends, dressy blouses for women are the go-to choice for a stylish and effortless look. Upgrade your wardrobe with summer tops for women, elevate your everyday outfits effortlessly.",
+    "price": 49.19,
+    "featured": false,
+    "rating": 2.1,
+    "image": "https://drive.google.com/file/d/1fKrzpaW0MS0pbcRGpbNAkf407tsUlB7q/view?usp=drive_link",
+    "brand": "Fantaslook",
+    "category": "Women"
+  },
+  {
+    "name": "Magic Bullet Blender - MBF10100WM - Silver",
+    "description": "It’s everything you love about the original magic bullet®, only bigger. Give a big hello to the magic bullet® Full-Sized blender – your one-stop shop for major versatility and flavor. Whether you’re prepping a big batch of your favorite smoothie or frozen drinks for a crowd, this blender has you covered with a 48oz vented pitcher and 500-Watt motor base (the most powerful of any magic bullet®.) It’s also super easy to operate, with a simple dial that gives you full control over the speed and duration of your blends. Bonus: it’s as cute and compact as a full-sized blender can get. So, when it comes to your blends, dream big. A family-sized batch of hot soup, a full tray of muffin batter, dips for days – it’s all on the table with this beefcake on your countertop. With the magic bullet® Full-Sized blender, you’ve got the goods to make ample amounts of blended deliciousness with style, ease, and a whole lot of magic.",
+    "price": 51.79,
+    "featured": false,
+    "rating": 2.3,
+    "image": "https://drive.google.com/file/d/1y9RKJq1oWpf9yHy2L_SQ4APNeAdRngO8/view?usp=drive_link",
+    "brand": "Magic Bullet",
+    "category": "Appliances"
+  },
+  {
+    "name": "Sony ZV-E10 - New Mirrorless Camera with 16-50mm Lens, Built-in WiFi - Black",
+    "description": "If you’re a vlogger or a content creator looking for a camera that can boost your creativity, the Sony ZV-E10 Mirrorless Camera with 16-50mm Lens is a perfect choice. This camera has a large APS-C sensor and mirrorless design, which give you superior image quality, more lens choices, and more creative control. You can capture stunning photos and videos with this camera, thanks to its fast and accurate autofocus, 4K video quality, and high-speed shooting. You can also use the touchscreen LCD to easily adjust your settings and frame your shots. The camera comes with a 16-50mm lens that can handle different scenes and situations. This lens has lens elements that enhance the optical performance and contrast of your images. It also has image stabilization and power zoom features that help you record smooth and steady videos. And it has a circular aperture that creates beautiful bokeh effects in the background. The Sony ZV-E10 Mirrorless Camera with 16-50mm Lens is a great camera for content creation. It lets you express your vision and style with clarity and color. Whether you’re making vlogs, films, or other creative projects, this camera helps you achieve amazing results.",
+    "price": 621.16,
+    "featured": false,
+    "rating": 5,
+    "image": "https://drive.google.com/file/d/1ae32QBmvY6FqDEIocFjYCbC_YNdd2kDn/view?usp=drive_link",
+    "brand": "Sony",
+    "category": "Cameras"
+  },
+  {
+    "name": "Crayola Pokémon Coloring Art Set, Pikachu, Child, 50 Pieces, Holiday Coloring Toys, Gifts, Beginner Child",
+    "description": "Get ready for your Pokémon Adventure with the Crayola Pokémon Pikachu Coloring Art Case. This specially designed Pikachu Gift Set includes everything kids need to color in their favorite Pokémon Partners. Use crayons or markers to bring life to your Pokémon Coloring Pages, then decorate your Pokémon Adventure by adding fun stickers. Kids can take their Pokémon Journey on the Goh with the Pikachu Storage Case. With so many activity choices, the fun is sure to last for hours at a time! Try something that will get kids truly engaged instead of choosing another Pokémon plush for the next gifting occasion. Great for boys and girls, ages 4 & up. Beginner child.",
+    "price": 25.44,
+    "featured": false,
+    "rating": 2.3,
+    "image": "https://drive.google.com/file/d/1RFaGU9jyC78jv9h0AUc0ltrQzsbWLakU/view?usp=drive_link",
+    "brand": "Crayola",
+    "category": "Kids"
+  },
+  {
+    "name": "QFX PBX-8074 8” BLUETOOTH RECHARGEABLE SPEAKER WITH LED PARTY LIGHTS, INCLUDES WIRED MICROPHONE AND REMOTE",
+    "description": "QFX's Portable PARTY Speaker PBX-8074 has you covered for any occasion. This versatile PA speaker rolls on into events to pump out music or amplify announcements. Once it's in place, it can stream music from a variety of sources: wirelessly via Bluetooth-enabled devices, through USB and microSD card slots, or connected with a cable through the aux-in port. No matter what you're playing, the speaker's 8 woofer and amplifier ensure that everyone can hear clearly. The rechargeable battery lasts for 4-hours so you can stream music even in places without an outlet nearby.",
+    "price": 85.97,
+    "featured": false,
+    "rating": 3.4,
+    "image": "https://drive.google.com/file/d/1LatpOT05_T3BTbo2OYYDLsbfGKCj91nB/view?usp=drive_link",
+    "brand": "QFX",
+    "category": "Music"
+  },
+  {
+    "name": "Better Homes & Gardens 8-Cube Storage Organizer, Solid Black",
+    "description": "Add functionality and a great look to almost any room with the sleek style of the Better Homes & Gardens 8-Cube Storage Organizer. Designed with eight compartments that are perfectly sized for displaying books, collectibles, photography, artwork, storage bins, and fabric baskets (sold separately) and an open back to provide easy cord management for electronics, this sturdy bookshelf is available in multiple finishes to blend in beautifully with virtually any decor. The organizer can support up to 100 pounds on the top panel and 30 pounds inside each individual 13 x 15 x 13 space. With the versatility to be used vertically or horizontally, this bookcase makes use of available space in small to large rooms and can be combined with other Better Homes & Gardens Storage Organizers (sold separately) to create a complete storage and display system. Easily assembled with the included instructions, the Better Homes & Gardens 8-Cube Storage Organizer is perfect for your office, living room, family room, den, spare room, and more. Available in Solid Black, Gray, Rustic Gray, Textured White, and Vintage Walnut finishes.",
+    "price": 143.03,
+    "featured": false,
+    "rating": 4.4,
+    "image": "https://drive.google.com/file/d/1mFiOwpWMN6pzT1SdEzCdfzHrWyhvAwkF/view?usp=drive_link",
+    "brand": "Better Homes & Gardens",
+    "category": "Furniture"
+  },
+  {
+    "name": "Men's Belted Cotton Cargo Shorts (3-Pack)",
+    "description": "3-Pack Cargo Shorts w/ Belt    ",
+    "price": 21.99,
+    "featured": false,
+    "rating": 4.1,
+    "image": "https://drive.google.com/file/d/15ptYVogGZg9b4fJd_-4624C7P9EUDzJc/view?usp=drive_link",
+    "brand": "GBH",
+    "category": "Men"
+  },
+  {
+    "name": "iHome AutoVac Nova S1 Robot Vacuum with LIDAR Navigation, 150 Min Runtime, 2700pa Suction",
+    "description": "Take Cleaning Off of Your To-Do List with the New iHome AutoVac Nova S1. Innovative HomeMap 2.0 Navigation with 360 LIDAR Technology Scans the Floor Plan and allows for Customized Cleaning. View your Floor Plan in the iHome Clean App and Set Virtual Boundaries, Set Rooms for customized cleaning. Nova S1 will clean for 150 Minutes, and will automatically return back to the Charge Base when finished its clean. Recharge and Resume will allow the Nova S1 to Resume where it left off it did not finish its cleaning run in a single charge. iHRVS1-3BLK unit weighs less than 3lb.",
+    "price": 339.71,
+    "featured": false,
+    "rating": 4.4,
+    "image": "https://drive.google.com/file/d/1efJCzfUk1RtpnKc06a_OLoXva2-ebRR_/view?usp=drive_link",
+    "brand": "iHome",
+    "category": "Home"
+  },
+  {
+    "name": " Throne of Glass Box Set (Paperback) (Paperback)",
+    "description": "Throne of Glass Box Set (Paperback)",
+    "price": 102.2,
+    "featured": false,
+    "rating": 4.5,
+    "image": "https://drive.google.com/file/d/1RKY5BTvw3iGtSze5jtSJdNSYtejrK03e/view?usp=drive_link",
+    "brand": "    Sarah J Maas    ",
+    "category": "Books"
+  },
+  {
+    "name": "Shark StainStriker Portable Carpet & Upholstery Cleaner, Spot, Stain and Odor Elminator, PX200, Navy",
+    "description": "The Shark StainStriker PX200 is a portable spot & stain eliminator. It delivers an unbeatable stain elimination on the toughest stains, with no premix required. The StainStriker hsa a dual-activated solution for 20X more stain-striking power. Use throughout your home on carpets, area rugs, couches, upholstery & more. Included in the box is the Shark StainStriker, integrated crevice tool, 3.5 reversible bristle tool, hose clean tool, 6 oz. Deep Clean Pro Formula and 12 oz. OXY Multiplier Formula.",
+    "price": 489.74,
+    "featured": false,
+    "rating": 3.8,
+    "image": "https://drive.google.com/file/d/13yEGHmtTT7Q2dLrWrhqauFHrKr5MgK4X/view?usp=drive_link",
+    "brand": "Shark",
+    "category": "Home"
+  },
+  {
+    "name": "Muck Men's Outscape Low, Black",
+    "description": "The Outscape Collection, by Muck Boot, was inspired by the popular Muckster II gardening collection, but given a modified silhouette for today's on-the-go consumer. The Muck Outscape Low, in green, is a slip-on rubber shoe with 100 percent waterproof performance, flexible cement construction and a Dual Density Comfort footbed with antimicrobial protection. Self-cleaning outsole lugs allow for optimal traction, a Guarded Rubber toe and heel provide durability for more extensive wear. This shoe a versatile grab and go option for daily tasks and feels like a sneaker. Pick up a pair today.",
+    "price": 126.98,
+    "featured": false,
+    "rating": 3.5,
+    "image": "https://drive.google.com/file/d/13zBOD__fm2cajf85ceUmNxkg5tcrxO7j/view?usp=drive_link",
+    "brand": "THE ORIGINAL MUCK BOOT COMPANY",
+    "category": "Men"
+  },
+  {
+    "name": " Filmmaking Apparel, Filmmaker T-shirts",
+    "description": "We print designs on clothes; t-shirts, sweatshirts, and hoodies. We're working with the best print providers around the world to get a high quality printing and good service. And we'll also do our best to satisfy our valued customers.",
+    "price": 8.64,
+    "featured": false,
+    "rating": 3.7,
+    "image": "https://drive.google.com/file/d/1FEQ139k67kO70IjhoE7ORW6m9HLR71-M/view?usp=drive_link",
+    "brand": "AABestLucy",
+    "category": "Clothes"
+  },
+  {
+    "name": "JWD Womens Loose Blouse Long Sleeve V Neck Button Down T Shirts Tie Front Knot Casual Tops Wine Red L",
+    "description": "JWD Womens Loose Blouse Long Sleeve V Neck Button Down T Shirts Tie Front Knot Casual Tops *Fabric:Polyester+Spandex. *Features: Sexy V Neck, Short Sleeve, with Buttons, Loose, Lightweight, Thin, high quality knitted fabric *Size:Small, Medium, Large, X-Large, XX-Large *Loose fit:suitable for a variety of occasions: Casual, Shopping, Date,Street, Office, Work, Basic, Party, Outdoor, Dailywear etc.",
+    "price": 77.14,
+    "featured": false,
+    "rating": 1.9,
+    "image": "https://drive.google.com/file/d/1YCzYVzWhohplE65IU9lQ8a8MB5brZyZz/view?usp=drive_link",
+    "brand": "JWD",
+    "category": "Women"
+  },
+  {
+    "name": "Treadmill with Incline Folding Treadmill with 12-Level Automatic Incline 2.5hp Power 8.5mhp Speed Running Machine 15 Preset Training Program Electric Treadmill for Home Use",
+    "description": "Please Note that orders may be shipped randomly between old and new versions! New version of this treadmill which mainly updates to the foot pad on the rear side of the treadmill,but rest assured that old & new version will not affect the overall functionality and usability of the treadmill.",
+    "price": 144.18,
+    "featured": false,
+    "rating": 3.4,
+    "image": "https://drive.google.com/file/d/1PaAgHv9rfJy9EHp9VOZy6FrOwgVdQt5y/view?usp=drive_link",
+    "brand": "MaxKare",
+    "category": "Sports"
+  },
+  {
+    "name": "Sony Alpha ZV-E10 Mirrorless Vlog Camera with 16-50mm Lens + 55-210mm Lens + 128GB Memory Card + Filter Kit + Tripod + Case + ZeeTech Accessory Bundle (Black)",
+    "description": "Perfect for vloggers, the Sony ZV-E10 pairs a large APS-C sensor and mirrorless versatility with a specialized feature-set built just for content creators. Improving upon the ubiquitous smartphone, the ZV-E10 is an Alpha camera that brings improved image quality, greater choice of lenses, and increased control to up your creativity when shooting.",
+    "price": 871.28,
+    "featured": false,
+    "rating": 4.5,
+    "image": "https://drive.google.com/file/d/1R3seuRbXbfW6Y2cNDEBbMbAZzW97s5fA/view?usp=drive_link",
+    "brand": "Zeetech",
+    "category": "Cameras"
+  },
+  {
+    "name": "Hamilton Beach 15.6 cu. Ft. Side by side Stainless Refrigerator, Freestanding Installation, HZ8551",
+    "description": "This fashionable refrigerator is ideal for all types of households as it offers plenty of cooling space for your kitchen, dormitory or rec room. Maintenance is easy with the convenient cycle defrost system and finding your favorite beverages is a breeze due to the tall bottle storage in the door. This chic unit features easy-to-use digital controls.",
+    "price": 865.09,
+    "featured": false,
+    "rating": 3.9,
+    "image": "https://drive.google.com/file/d/1QsPHnnI1D1qckX2Pfck4y7-CjEbdP5eM/view?usp=drive_link",
+    "brand": "Hamilton Beach",
+    "category": "Home"
+  },
+  {
+    "name": "Rest Haven 5 Gel Memory Foam Mattress, Twin",
+    "description": "The Rest Haven 5 inch Gel Memory Foam Mattress allows your child to experience the support of CertiPUR-US certified memory foam at an affordable price. With a 1-inch layer of plush gel-infused memory foam and 4 inches of supportive base foam, the mattress will contour to your body while also providing pressure-relieving comfort and a cool sleep environment. This mattress is wrapped in a soft and breathable polyester blend fabric cover to add a finishing touch. The low-profile design of this mattress makes it the perfect choice for a kid’s bed, bunk bed, trundle bed, or even an RV or camper bed. This mattress ships compressed and rolled for convenience and will fully expand to 5 inches in 48 hours. Create a premium place of comfort for your child with the Rest Haven 5-Inch Gel Memory Foam Mattress. ",
+    "price": 80.08,
+    "featured": false,
+    "rating": 1.2,
+    "image": "https://drive.google.com/file/d/1afnQjiYc4-V896MGemkFpCLAtoKxm_w-/view?usp=drive_link",
+    "brand": "Rest Haven",
+    "category": "Home"
+  },
+  {
+    "name": "Sony Alpha a6400 Mirrorless Digital Camera with E PZ 16-50mm + E 55-210mm OSS Lens + 2 Pack SanDisk 128GB Card + Backpack + ZeeTech Accessory Bundle",
+    "description": "The Sony a6400 is a sleek APS-C-format mirrorless camera featuring well-rounded photo and video capabilities. Using a proven sensor design, quick and precise AF performance, and smart operability, this camera is an ideal partner for capturing your everyday moments and once-in-a-lifetime experiences.",
+    "price": 1290.39,
+    "featured": false,
+    "rating": 2.2,
+    "image": "https://drive.google.com/file/d/1YE5AHt1_I16rCQ14BO-h6SLKLjhBTZKz/view?usp=drive_link",
+    "brand": "Zeetech",
+    "category": "Cameras"
+  },
+  {
+    "name": "DKNY Be Delicious Eau De Parfum, Perfume For Women, 3.4 oz",
+    "description": "DKNY Be Delicious Eau De Parfum by Donna Karan is the new succulent scent from New York, a city ripe with possibilities. Innocent, sexy, wholesome, provocative, raw in its sensuality, friendly in its spirit. A scrumptious, tempting sensation to touch, smell, share, and call your own. This is a delicate fresh fragrance for the modern women and celebrates the beauty of spring with a scent that is sparkling, inviting, exhilarating, alluring, and playful. Be Delicious has a fruity scent with notes of american apple, cucumber, grapefruit, rose, violet, sandalwood, white amber and tuberose. Served in a sleek metal and glass apple bottle, Be Delicious celebrates The Big Apple and its residents' individuality and refreshing spirits. Be Delicious is recommended for daytime wear.",
+    "price": 66.88,
+    "featured": false,
+    "rating": 1.5,
+    "image": "https://drive.google.com/file/d/1HFoOcgWmspqiDXb6F76tMQdN49iQqjpE/view?usp=drive_link",
+    "brand": "DKNY",
+    "category": "Beauty"
+  },
+  {
+    "name": "Melcam HD 1080P Digital Camera Camcorder 44MP Digital SLR Camera 16X Digital Zoom with 2.4 Inch LCD Screen Compact Point and Shoot Camera Starter Camera(Pink)",
+    "description": "MELCAM is a professional manufacturer of digital camera. We are committed to providing you with more fun in your happy moments with our compact camera.",
+    "price": 58.57,
+    "featured": false,
+    "rating": 3.7,
+    "image": "https://drive.google.com/file/d/1BCT47xMlkw9ImMXC_oeQDReGE8miS8eS/view?usp=drive_link",
+    "brand": "Melcam",
+    "category": "Cameras"
+  },
+  {
+    "name": "Shoes For Crews Radium, Men's, Women's, Unisex Slip Resistant Work Clogs, Water Resistant, Black",
+    "description": "Experience the comfort and slip-resistant safety of our SFC Cloggz Collection. Designed for safety, comfort and convenience, these work clogs feature an SFC slip-resistant outsole, EVA/rubber upper, removable insole, and a water-resistant make. Excellent for kitchen environments.",
+    "price": 35.28,
+    "featured": false,
+    "rating": 4.9,
+    "image": "https://drive.google.com/file/d/1ID0j7FhvLsXQHDSV6z4MamXjhMKpChJA/view?usp=drive_link",
+    "brand": "Shoes For Crews",
+    "category": "Footwear"
+  },
+  {
+    "name": "Fortify Facial Toner Mist, Setting Spray, 4.39 fl oz",
+    "description": "WHAT IT IS? Our premium Fortify setting spray facial toner treatment is a hands-free way to protect, moisturize, and refresh throughout the day. Different from other mists, this product works to not only freshen your face with a burst of hydration but also helps fight germs and bacteria that adhere to the face - without drying or damaging skin. WHEN TO USE? Use our fortify Mist in the morning, post-workout, before sleep, on the go, or whenever you need a quick cleanse and refresh. PRO TIP: You can use this under OR over makeup! WHO'S IT GOOD FOR? Great for all skin types and anti-aging concerns. WHAT TO PAIR WITH? Follow with our Fortify Moisturizing & Protecting Serum and then our Nourishing & Protecting Moisturizer. ABOUT FORTIFY: Our unique, Clean Beauty, premium formulations contain skin nourishing ingredients + ZEOLITE which helps reduce and slow the growth of bacteria - on the FACE - the point of entry for pathogens. Our probiotic ingredients support the growth of good bacteria for a healthy and balanced Microbiome. WHAT IS ZEOLITE? A volcanic mineral that's been clinically proven to slow the growth of germs, bacteria, pathogens and microorganisms for extended periods of time. Non-toxic, non-irritating, and naturally derived, it provides clean beauty benefits that shield and purify skin without harsh chemicals.",
+    "price": 35.07,
+    "featured": false,
+    "rating": 4.3,
+    "image": "https://drive.google.com/file/d/1DDOf2fZ2FWUY5m4A_CCwQ7mufPSRJiyH/view?usp=drive_link",
+    "brand": "Fortify Skincare",
+    "category": "Beauty"
+  },
+  {
+    "name": "Donner DP-06 61 Keys Folding Piano Keyboard for Beginner, with Bluetooth, MIDI, 128 tones, 21 demo songs and 128 rhythm styles, Music Rest, Piano Bag, Piano Pedal, White",
+    "description": "-Light & Thin Folding Piano Keyboard: With the ultra-thin body and 180°folding lightweight design, the Donner DP-06 music keyboard piano meets concise aesthetics to reconstruct the convenient keyboard in a simple and fashionable way.- Easily Move Your Stage: Donner DP-06 electric keyboard piano built-in ultra-large-capacity lithium battery with up to 10 hours of battery life and DP-06 piano keyboard has more compact and lightweight design, you can take it gu to anywhere you want(travel, party, school, stage). The DP-06 piano keyboard is a great travel piano keyboard for you!- 61 Semi-weighted Keys with Tasteful Texture: The DP-06 folding piano keyboard has 61 semi-weighted keys that give beginners a good feel for real pianos. Spring keys have a specific rebound speed, and you can enjoy the sound of notes by running your fingertips over them. Moreover the exquisite craftsmanship incorporates an outstanding design and tasteful texture. The keys are not easy to turn yellow even used for a long time, and have greater stability.- More Compact and Superior Performance: The DP-06 portable piano keyboard has 128 tones, 21 demo songs, and 128 rhythm styles to choose from, just inspire you to explore more possibilities.- Dual Bluetooth Mode: The audio Bluetooth function enables the musical keyboard to be used as a player, with the ability to play and sing. Bluetooth MIDI can send and receive MIDI signals for connected software, as well as connect smart apps to perform follow-up and other functions.",
+    "price": 661.06,
+    "featured": false,
+    "rating": 3.9,
+    "image": "https://drive.google.com/file/d/11sHPCCD_1_gWCDliw92W9nhpkWt0rVqZ/view?usp=drive_link",
+    "brand": "Donner",
+    "category": "Music"
+  },
+  {
+    "name": "INGALIK Convertible Sectional Sofa Couch, Convertible L Shaped Couch with Reversible Chaise, Sectional Couch for Small Space Apartment, 3 Seater, Gray",
+    "description": "Enjoy your relaxing time provided by INGALIK, you can get relaxed and delighted with this L-shaped sofa recliner in various settings such as living room, bedroom, lounge and apartment. The high-density foam cushions and seat cushions of this sofa provide full support for your head, neck, shoulders and lower back, so you can feel comfortable for a long time. The sofa is made of high quality chenille fabric, which is not easily damaged and can keep the sofa for a long time. Naturally strong solid wood and high quality steel frame make the sofa stable and sturdy. Removable sofa cover is easy to clean and keep the sofa clean as new. Perfect after-sales service makes your purchase worry-free.",
+    "price": 582.53,
+    "featured": false,
+    "rating": 3.3,
+    "image": "https://drive.google.com/file/d/1m94aAQDULir0zHY6upvjhA2II7u6TH69/view?usp=sharing",
+    "brand": "INGALIK",
+    "category": "Home"
+  },
+  {
+    "name": "Furinno Cubicle Open Back Decorative Cube Storage Organizer, 4-Cube, White",
+    "description": "Add one of these stylish Furinno Cubicle Open Back Decorative Cube Storage Organizers to your home which is the perfect addition that you need to organize your space. Each of these modern and functional organizers can be placed vertically or horizontally to fit perfectly in your living room, kitchen, home office, garage, and more. The ample space of these cube storage organizers creates more storage space to hold your office supplies, toys, collectibles, and more. This series is made of CARB Grade composite wood and manufactured in Malaysia. Assembly is easy with clear step-by-step assembly instructions and a hardware pack provided. Care instructions: wipe clean with a clean damped cloth. Avoid using harsh chemicals. Pictures are for illustration purposes. All decor items are not included in this offer.",
+    "price": 73.81,
+    "featured": false,
+    "rating": 3.7,
+    "image": "https://drive.google.com/file/d/1m8zdaHpC4R-m0ckp9WowAbxIpb5WGkLF/view?usp=drive_link",
+    "brand": "Furinno",
+    "category": "Furniture"
+  },
+  {
+    "name": "Men's Muckmaster Tall Boot Size 13(M)",
+    "description": "The original Muckmaster by Muck Boot has served workers for over a decade delivering high performance and protection and optimal fit and comfort. This rugged boot withstands sharp objects while the breathable lining keeps your feet cool and dry in challenging weather conditions.These waterproof and insulated 16-inch pull-on work boots are the ultimate in durability and useful in any condition. Their stretch-fit topline bindings snug the legs securely to keep warmth in and cold out, making these boots useful in any weather.A 5mm CR flex-foam bootie features four-way stretch nylon that is waterproof, lightweight and flexible. Paired with additional Achilles reinforcements for added protection, as well as EVA molded midsoles with contoured footbeds, and 2mm thermal foam underlays in the instep area for additional warmth, these are your best buy if looking for commercial grade boots.The MS-1 molded outsoles are rugged, aggressive, durable, and offer maximum protection and stability. Wrap-up bumpers mitigate abrasion around the toe area as does extended rubber overlays.Don't delay and order a pair of these high quality Muck boots today.",
+    "price": 53.42,
+    "featured": false,
+    "rating": 4.2,
+    "image": "https://drive.google.com/file/d/14tghQMf-17kqQ2k9BuqL-tM2ZmC5Xqal/view?usp=drive_link",
+    "brand": "THE ORIGINAL MUCK BOOT COMPANY",
+    "category": "Men"
+  },
+  {
+    "name": "Dyson Supersonic Hair Dryer | Latest Generation | Fuchsia/Nickel | Refurbished",
+    "description": "The hair dryer re-thought. Helps prevent extreme heat damage to protect natural shine. Air temperature is measured 40 times every second, keeping the temperature under control. Ultra fast drying. Drying shouldn't take forever. For fast drying you need controlled, high velocity airflow. Magnetic attachments. Only the Dyson Supersonic™ hair dryer comes with magnetic attachments - so you easily adjust quickly and easily. Dyson smoothing nozzle. Dries hair gently using smooth, wide air, allowing you to dry and style at the same time. Dyson styling concentrator. High-velocity, focused air that lets you style one section at a time – without worrying about disturbing the rest. Dyson diffuser. Engineered to disperse air evenly around each of your ringlets. Simulates natural drying to help reduce frizz and improve definition. Cool to touch. With Heat Shield technology, the surfaces of the attachments stay cool. Lightweight and balanced. We've turned convention on its head and put the motor in the handle. Completely rebalancing the dryer's weight and shape. Acoustically tuned. The powerful motor is tuned to produce one inaudible frequency, and it’s enveloped by a vibration reduction system. 3 precise speed settings. Fast drying, regular drying, and styling.",
+    "price": 862.86,
+    "featured": false,
+    "rating": 4.6,
+    "image": "https://drive.google.com/file/d/1DbIn3Vyw2lYVepAcXbUA6D6XH2C5wiwl/view?usp=drive_link",
+    "brand": "Dyson",
+    "category": "Beauty"
+  },
+  {
+    "name": "Ozark Trail 40 oz Vacuum Insulated Stainless Steel Tumbler Purple",
+    "description": "Ozark Trail 40 ounce double wall stainless steel tumbler will keep you hydrated all day long with less refill. With a 40-ounce capacity, this reusable tumbler is the drinkware everyone needs in their pantry. Straw lid keeps liquid hot and cold longer compared to previous tumbler. It is made of food grade stainless steel which�is firm, rustproof, no harm to human health, and without metallic taste.�It has large handle that prevents it from slipping out of your hand or accidentally dropping it. The removable lid has two openings. One for the included straw and a wider opening to drink from.�Suitable for swimming, Sports, Travel, Road trip, Barbecue, Camping, Parties, Etc. You can share them as gifts on birthdays, Thanksgiving, and Christmas with your family, friends, teachers, colleagues, and sisters.",
+    "price": 73.67,
+    "featured": false,
+    "rating": 3.1,
+    "image": "https://drive.google.com/file/d/12DkNeSVBn0Q-zs80GLAipMqhz8uHAdYu/view?usp=drive_link",
+    "brand": "Ozark Trail",
+    "category": "Sports"
+  },
+  {
+    "name": "Shoes For Crews MOZO Natural, Men's Slip Resistant Work Shoes Sneakers, Black",
+    "description": "You’re a natural at your job—and the Natural helps make you even better. This handsome everyday work shoe has a full-grain leather upper that’s water-resistant. Best of all, this casual work shoe features effective slip-resistant traction to keep you on your feet all day long.",
+    "price": 106.47,
+    "featured": false,
+    "rating": 1.8,
+    "image": "https://drive.google.com/file/d/1DUIFkboyAAaAhcRs5BsUhbQIrEAfrpC1/view?usp=drive_link",
+    "brand": "Shoes For Crews",
+    "category": "Footwear"
+  },
+  {
+    "name": "UTTOASFAY Clearance Shoes Women Boots,Women Casual Flat Leather Retro Lace-Up Boots Side Zipper Plus Shoe Boots Rollbacks",
+    "description": "Women Casual Flat Leather Retro Lace-Up Boots Side Zipper Plus Shoe Boots",
+    "price": 31.73,
+    "featured": false,
+    "rating": 3.8,
+    "image": "https://drive.google.com/file/d/1OTC_IE757ejVdmC4qBFYYzeg8zkLe-yW/view?usp=drive_link",
+    "brand": "UTTOASFAY",
+    "category": "Men"
+  },
+  {
+    "name": "YQX 8 Cube Organizer, Bookcase, Storage Shelves (Black)",
+    "description": "Keep your home tidy with this 8-cube organiser from YQX. It has plenty of room for bins, baskets, books, plants, decorations and more, and you can place it vertically or horizontally for a variety of placement options. The back and front are finished in neutral tones to easily match a variety of furniture styles, and each of the eight shelves can hold up to 30 pounds. Best of all, the included hardware makes self-assembly a breeze.",
+    "price": 85.13,
+    "featured": false,
+    "rating": 4.9,
+    "image": "https://drive.google.com/file/d/1NJfzgnRiX8irZ6xhRN7WszpUwg5y02qG/view?usp=drive_link",
+    "brand": "YQX",
+    "category": "Furniture"
+  },
+  {
+    "name": "Better Homes & Gardens River Oaks Outdoor Swivel Gliders with Patio Covers, Set of 2, Dark Brown",
+    "description": "Boost your outdoor style and comfort with the Better Homes and Gardens River Oaks Outdoor Swivel Gliders, set of 2, Dark Brown, the perfect place to gather outdoors with family and friends. Engineered to brave the elements, the robust weather-resistant wicker and sturdy steel frames stand the test of time. The unique swivel glider function enhances usability, promoting effortless conversations and comfort. The neutral beige polyester cushions feature 3M Scotchgard™ treated fabric and weather-resistant fiberfill. A beautifully hand-woven basket weave pattern in a dark brown wicker covers the durable e-coated steel frame, perfectly paired to protect your patio furniture from the outdoor elements. The River Oaks outdoor swivel glider lounge chairs are the perfect complement to your outdoor patio, deck, or porch. The Better Homes & Gardens River Oaks Outdoor Swivel Gliders include weatherproof and durable outdoor covers to protect your outdoor furniture against all elements. Assembly is required.",
+    "price": 676.07,
+    "featured": false,
+    "rating": 2.1,
+    "image": "https://drive.google.com/file/d/1oTAep9SvWRhBqSZRzSrwoxGsLFbXw_04/view?usp=drive_link",
+    "brand": "Better Homes & Gardens",
+    "category": "Home"
+  },
+  {
+    "name": "Godzilla x Kong: 7 Battle Roar Godzilla Figure by Playmates Toys",
+    "description": "Return to Hollow Earth with Godzilla and Kong in an all-new adventure! When a colossal threat is discovered within our world, Godzilla and Kong must fight to protect their existence?and our own. The Godzilla x Kong 7? Battle Roar Godzilla brings the King of Monsters to your collection, with epic new details that capture his movie look. Set includes Godzilla?s Battle Roar sound effects and comes in a unique Godzilla X Kong package!",
+    "price": 14.18,
+    "featured": false,
+    "rating": 4.3,
+    "image": "https://drive.google.com/file/d/1O7_8KnKdO-nPoKWROPOY85dNqhWtck_b/view?usp=drive_link",
+    "brand": "Godzilla x Kong",
+    "category": "Toys"
+  },
+  {
+    "name": "Bounce Pro 14ft Trampoline With Enclosure Combo",
+    "description": "The Bounce Pro 14ft trampoline with enclosure system is a great addition to any backyard. The frame is made of high quality galvanized steel tubes to provide durabiity and stability. The jump mat, spring pad protector and safety enclosure netting are UV resistant and are tested to over double the ASTM standards. The long springs provide a smooth, deep bouncing action which kids love. The safety enclosure system keeps kids safely on the trampoline. The Bounce Pro trampoline is made with quality in mind so parents can rest easy while kids are having hours of bouncing fun.",
+    "price": 293.99,
+    "featured": false,
+    "rating": 4.9,
+    "image": "https://drive.google.com/file/d/17lKYpqLRuV2ueZ_isK4DI4zIxyGirytG/view?usp=drive_link",
+    "brand": "Bounce Pro",
+    "category": "Sports"
+  },
+  {
+    "name": "Apple MacBook Air 13.3 inch Laptop - Space Gray, M1 Chip, 8GB RAM, 256GB storage",
+    "description": "Introducing The 13-inch MacBook Air with the Apple M1 chip is incredibly thin and light with a silent fanless design. It delivers remarkable performance and up to 18 hours of battery life. And it has a beautiful Retina display for super sharp text and vibrant colors. Amazing performance, Unbeatable price. It's a laptop you’re going to love!",
+    "price": 701,
+    "featured": false,
+    "rating": 4.8,
+    "image": "https://drive.google.com/file/d/1VXuvPzdaSld0BnnOYiSbWxm_Gmom51dT/view?usp=drive_link",
+    "brand": "Apple",
+    "category": "Laptops"
+  },
+  {
+    "name": "Coleman Power Steel 22' x 52' Round Metal Frame Above Ground Pool Set",
+    "description": "Have the summer of your (and your kids’) dreams with an above ground pool right in your own backyard! Durable Construction: The Coleman® Power Steel™ Above Ground Pool is easy to set up and built to last. The durable pool frame is constructed with superior corrosion resistant steel to ensure stability and longevity. The ClickConnect System™ of frame connectors makes setting the pool up a breeze, with no additional tools or accessories needed. Quickly click each support piece into place for a safe and secure connection. The frame connectors also prevent metal-on-metal contact to ensure corrosion and rust resistance. The pool liner is constructed with enhanced, 3-layer Tritech™ material. This premium material prevents punctures and tears, so your family will enjoy summer pool days year after year. Additional Features: This above ground pool set also comes stocked with a filter pump, a ladder and a pool cover. Have fun in the sun and relax the day away with this Power Steel Pool Set!",
+    "price": 680.8,
+    "featured": false,
+    "rating": 2.2,
+    "image": "https://drive.google.com/file/d/1A5DhacCDr2gqwno2_veUPEePgnZtyT8l/view?usp=drive_link",
+    "brand": "Coleman",
+    "category": "Sports"
+  },
+  {
+    "name": "Character Toddler Snug Fit Two-Piece Sleep Set, Sizes 12M-5T",
+    "description": "Your little one's nighttime style just got more fun with this BLuey Pajama Set featuring a short sleeve top and matching easy to wear, pull-on pants. This snug fit two-piece sleep set is so cozy, adorable and cute with allover Bluey inspired prints! Crafted with comfort in mind, the soft cotton fabric hugs the body and is perfect for lounging all day, bedtime and snuggles!",
+    "price": 733.56,
+    "featured": false,
+    "rating": 2.5,
+    "image": "https://drive.google.com/file/d/14EUuh0oWXaooYAiPPLwYmozJ_OQAFQc0/view?usp=drive_link",
+    "brand": "Bluey",
+    "category": "Clothes"
+  },
+  {
+    "name": "Newshe Wedding Bridal Band Ring Enhancer Engagement Ring Set for Women 925 Sterling Silver 3Ct Pear White Gold 5A Cz Size 7",
+    "description": "Newshe Jewellery was founded on two principles: Service and Quality. Our mission is to provide accessible luxury to all by offering high-quality jewelry without the typical retail markup. When you’re happy, we’re happy. Our customers are the backbone of our business. We welcome any questions, comments, experience at all times. We believe in the beauty of simplicity. Our rings are minimal and made for everyday wear. Our designs are timeless and complement any style without overpowering it. Newshe Jewellery Beautiful petite 2 piece white AAAAA 3ct grade cubic zirconia ring enhancer engagement rings set. Both rings for women are crafted from 925 Solid Sterling Silver.",
+    "price": 418.41,
+    "featured": false,
+    "rating": 4.9,
+    "image": "https://drive.google.com/file/d/12IAWyrhoV2ER5u6QB2ixFxe5hInrNAVm/view?usp=drive_link",
+    "brand": "NEWSHE JEWELLERY",
+    "category": "Jewellery"
+  },
+  {
+    "name": "ICHUANYI Womens 2023 Fall Solid Color Button Shirts Lapel Long Sleeve Blouses V Neck Casual Loose Tops ",
+    "description": ": Treat yourself to a little luxury with the womens tops! Lightweight and comfortable fabric. Collared neck / V-neck / Crewneck / Keyhole Neck / Mandarin Neck / Notch Neck / Tie Neck, and Curved hem / Irregular hem / High-low Hem with design.",
+    "price": 33.54,
+    "featured": false,
+    "rating": 3.8,
+    "image": "https://drive.google.com/file/d/15sxvToNua1UvmcvBiDcInJAG7WPJMviH/view?usp=drive_link",
+    "brand": "ICHUANYI",
+    "category": "Women"
+  },
+  {
+    "name": "Donner Upgraded 61 Key Piano Keyboard, Electric Keyboard Kit with 249 Voices, 249 Rhythms - Includes Piano Stand, Stool, Microphone, Gift for Beginners, Black",
+    "description": "All-Inclusive Kit - Donner DEK-610S Piano Keyboard Kit includes an easy-to-assemble keyboard stand, an adjustable-height bench, a sheet music stand, a microphone, and a power adapter. It provides everything you need in one package. Unlimited Possibilities - With 32-note polyphony, 249 voices, 249 rhythms, 50 demo songs, and 3 teaching functions, you can unleash your creativity and enjoy band performances. HD Display - The 61-key beginner keyboard piano features an LCD display panel that shows the current functions and operations. Practice Makes Perfect - The Record feature allows you to capture your performances for timely correction. The headphones with a 1/8 jack enable private practice. Superior Sound & Portability - Equipped with two built-in 10W speakers, the DEK-610S electric piano delivers room-filling sound. Its slim piano body makes it portable and perfect for indoor or outdoor activities.",
+    "price": 400.88,
+    "featured": false,
+    "rating": 2.5,
+    "image": "https://drive.google.com/file/d/1TUPwWGJ9f3ZoAVvgrv9QgPK0dX1Or4_X/view?usp=drive_link",
+    "brand": "Donner",
+    "category": "Music"
+  },
+  {
+    "name": "Frito-Lay Bold Mix Variety Pack Snack Chips, 42 Count Multipack",
+    "description": "From summer barbecues to family gatherings to time spent relaxing at the end of a long day, Frito-Lay snacks are part of some of life's most memorable moments. And maybe even brightens some of the most mundane. Frito-Lay Brand Multipack. Shelf Stable / Ambient. Individually Packaged for snacking on-the-go.",
+    "price": 10.16,
+    "featured": false,
+    "rating": 4.2,
+    "image": "https://drive.google.com/file/d/1ISYWE9Aut4KtKS1jKOhj0rE4Lcj5NshG/view?usp=drive_link",
+    "brand": "Frito-Lay",
+    "category": "Grocery"
+  },
+  {
+    "name": "Straight Talk Apple iPhone 15 Pro, 128GB, Blue - Prepaid Smartphone",
+    "description": "So strong. So light. So Pro. Straight Talk iPhone 15 Pro is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars, making this our lightest Pro model ever. From dramatic framing flexibility to next-generation portraits, see what you can do with our most powerful iPhone camera system. The 48MP Main camera is more advanced than ever, capturing super‑high‑resolution photos with a new level of detail and color. It's splash, water and dust resistant2 with a ceramic shield front that's tougher than any smartphone glass. The iPhone 15 Pro is the first iPhone to support USB 3 for a huge leap in data transfer speeds and faster pro workflows than ever before.",
+    "price": 999.79,
+    "featured": false,
+    "rating": 4.4,
+    "image": "https://drive.google.com/file/d/1ZNyTgIpp5ypDWCKD6NyjlkDzHZJPnzyK/view?usp=drive_link",
+    "brand": "Apple",
+    "category": "Mobiles"
+  },
+  {
+    "name": "Jelly Roll - Ballads Of The Broken - Country - CD",
+    "description": "Jelly Roll, the giant underground genre-bending singer/songwriter/rapper today released a new album Ballads of the Broken, ahead of his sold-out show at the iconic Ryman Auditorium. In celebration of the new record",
+    "price": 15.65,
+    "featured": false,
+    "rating": 2.2,
+    "image": "https://drive.google.com/file/d/1YFUSVYZXk1SWtGRJgaDDplt5pN4EteIS/view?usp=drive_link",
+    "brand": "Jelly Roll",
+    "category": "Music"
+  },
+  {
+    "name": "Jumper 16 Windows 11 4GB DDR4 128GB ROM Laptop 1920*1200 FHD 4-Core Intel Celeron, Free Office 1-Yr",
+    "description": "This 16-inch super large-screen laptop combines quad-core Intel Celeron and Intel Ultra HD graphics to produce a superior office and entertainment experience. Running Windows 11 operating system, support 2.4/5G WiFi, Bluetooth 4.2. One year of free access to legitimate office software, a laptop designed for college students and professionals",
+    "price": 256.31,
+    "featured": false,
+    "rating": 4.7,
+    "image": "https://drive.google.com/file/d/17kvSR-0aqYvECJ4o8GSv-1bLdek0V8U3/view?usp=drive_link",
+    "brand": "Jumper",
+    "category": "Laptops"
+  },
+  {
+    "name": "ICHUANYI Womens Elegant Shirts Button Long Lace Sleeve Lapel Blouses V Neck Casual Solid Loose Tops 2023",
+    "description": "Treat yourself to a little luxury with the womens tops! Lightweight and comfortable fabric. Collared neck / V-neck / Crewneck / Keyhole Neck / Mandarin Neck / Notch Neck / Tie Neck, and Curved hem / Irregular hem / High-low Hem with design.",
+    "price": 13.27,
+    "featured": false,
+    "rating": 1.6,
+    "image": "https://drive.google.com/file/d/1mNA91LPz4ytjfDPRNS2GZZRo7ElqF0KL/view?usp=drive_link",
+    "brand": "ICHUANYI",
+    "category": "Women"
+  },
+  {
+    "name": "MD Sports Official Size Table Tennis Table",
+    "description": "Bring some fresh entertainment to your space with this MD Sports Official Size Table Tennis Table, Black/Blue. It is an official-size table tennis table that features a 5/8 inch (15mm) table top for a true bounce and 1.38 aprons for additional support. The table easily folds for single-player action or space-saving storage, too. This foldable tennis table also features 2 lockable casters for easy transportation. It includes two paddles, two balls and a net and post set. The table has bold black and teal tones that make it simple to see the layout for easy play. This indoor tennis table offers you a versatile option for entertaining friends and family as you may move it around with ease. It has a convenient four piece construction. This MD Sports Official Size Table Tennis Table, Black/Blue will make it easy to have fun right at home.",
+    "price": 130.09,
+    "featured": false,
+    "rating": 4.2,
+    "image": "https://drive.google.com/file/d/1bZEfg1TUqK-HIGGs5188tNC4snWDy-0c/view?usp=drive_link",
+    "brand": "Medal Sports",
+    "category": "Sports"
+  },
+  {
+    "name": "MR.Siga Microfiber Cleaning Cloth, All-Purpose Kitchen Cleaning Towels, Pack of 50, Size 11.8x 11.8",
+    "description": "Marasigan microfiber cloths can handle the toughest of grease, dirt, dust and spills while remaining safe on all surfaces. The highly durable microfiber cleaning cloths are perfect for all of your cleaning needs. Microfiber has revolutionized by providing better cleaning, higher quality and longer-lasting towels than previously thought possible.",
+    "price": 20.78,
+    "featured": false,
+    "rating": 3.7,
+    "image": "https://drive.google.com/file/d/1LIcVaF_bDsMq_U8o9foHnACZJvPcOV8U/view?usp=drive_link",
+    "brand": "MR.SIGA",
+    "category": "Clothes"
+  },
+  {
+    "name": "Auto Drive Tear Away Multi-Purpose Microfiber Towel Roll, 75 Pack",
+    "description": "Auto Drive Tear Away towels, 75 count per pack make cleaning jobs simple and easy. The perfect sized towels to clean both the interior and exterior of your car, boat, home, garage, office and more. Easy to tear microfiber cloths absorb spills fast, wipe down surfaces, remove dust and debris and are always within reach on a convenient roll. Stop spending your money on costly paper towels that you can only use once and then throw away. These towels are machine washable and reusable up to 50 times! Made of super absorbent microfiber, these cloths absorb 5 times more than paper towels! Use these multipurpose towels to clean without the need of harsh cleaning solutions as well as use wet or dry. Tear Away towels are the perfect solution for grab-and-go cleaning on interior and exterior surfaces that include glass, mirrors, seats, dashboard, engines, tires, wheels, rims, and more.",
+    "price": 84.41,
+    "featured": false,
+    "rating": 1.6,
+    "image": "https://drive.google.com/file/d/1yDRpLrhIPQi-oN2stEcOZw31IG-A1xKc/view?usp=drive_link",
+    "brand": "Auto Drive",
+    "category": "Clothes"
+  },
+  {
+    "name": "Godzilla x Kong: 11 Giant Skar King Figure by Playmates Toys",
+    "description": "Return to Hollow Earth with Godzilla and Kong in an all-new adventure! When a colossal threat is discovered within our world, Godzilla and Kong must fight to protect their existence—and our own. The Godzilla x Kong 11” Giant Skar King brings a fearsome new foe to your collection, with epic new details that capture his movie look. Set comes in a unique Godzilla X Kong package!",
+    "price": 16.32,
+    "featured": false,
+    "rating": 3.2,
+    "image": "https://drive.google.com/file/d/1R_a6J4Wb-1WWF21qOeoqSWyKiAPHOMSE/view?usp=drive_link",
+    "brand": "Godzilla x Kong",
+    "category": "Toys"
+  },
+  {
+    "name": "PPYOUNG Women's Summer Casual Short Sleeve Tunic Tops Fit Pleated Blouse Shirts",
+    "description": "Discover the perfect blend of chic and casual with our women's short sleeve basic tee tunic tops, designed to effortlessly showcase a slimmer and elegant look.",
+    "price": 20.69,
+    "featured": false,
+    "rating": 3.4,
+    "image": "https://drive.google.com/file/d/1m559FExJvzDKuqH5-p3P5Rxbg09D-68G/view?usp=drive_link",
+    "brand": "PPYOUNG",
+    "category": "Women"
+  },
+  {
+    "name": "SGIN 15.6inch Laptop 4GB DDR4 128GB SSD Windows 11 with 4 Core Intel Celeron, HD 1366*768 IPS",
+    "description": "This is a computer after multiple quality testing, each computer has been tested by the QC department, in order to customers get a quality assurance of the computer. With 4GB DDR4 and 128GB SSD, and a 15.6-inch screen, it's perfect for office and entertainment. The latest Windows 11 operating system brings the latest and greatest operating experience. Built-in Quad-core Intel Celeron, up to 2.9Ghz, easily capable of basic office, entertainment, basic games and other aspects of the operation. The SGIN M15 laptop computer is the best choices for college prep/ college as tech gift. If you have any questions, please feel free to contact us first",
+    "price": 218.9,
+    "featured": false,
+    "rating": 4.3,
+    "image": "https://drive.google.com/file/d/195Gj9u4K_c2vz0HPBXX0481mrV1uOeoi/view?usp=drive_link",
+    "brand": "SGIN",
+    "category": "Laptops"
+  },
+  {
+    "name": "Newshe Engagement Wedding Ring Set For Women 925 Sterling Silver 2.5ct Pear Shape White Cz Size 7 ",
+    "description": "Newshe Jewellery Beautiful petite 2 piece AAAAA grade cubic zirconia engagement rings. The wedding rings for women are crafted from 925 Solid Sterling Silver.",
+    "price": 68.44,
+    "featured": false,
+    "rating": 2,
+    "image": "https://drive.google.com/file/d/1YevorDb1YKaS83m-rfmF2pO5tmgtwXHs/view?usp=drive_link",
+    "brand": "NEWSHE JEWELLERY",
+    "category": "Jewellery"
+  },
+  {
+    "name": "VAVSEA Immersion Hand Blender, 12-Speed Multi-Function Handheld Stick Blender with Stainless Steel Blades, Chopper, Beaker, 600ml, Whisk and Milk Frother for Baby Food/Smoothies/Puree, BPA Free",
+    "description": "The new generation VAVSEA immersion hand blender comes with a 1000W motor, which is much more powerful than most traditional hand blenders. It makes any recipe or smoothie the easiest cleanup and gives you a unique culinary experience. Also, our handheld blender is perfect for cutting hard ingredients up efficiently. Designed with a variable 12-speed and turbo button, our electric mixer offers you the convenience to choose different speeds for different purposes. For getting through tough blending tasks, the TURBO button increases the blender to its maximum speed. The stainless steel body is sophisticated and scratch-resistant. Exclusive stainless steel blade adopted with advanced production technology, certified by experts and chefs, to ensure easily blend the hard foods.",
+    "price": 45.38,
+    "featured": false,
+    "rating": 4.3,
+    "image": "https://drive.google.com/file/d/1vYGvNux5-Xp56nQG0U5P37S_he342itr/view?usp=drive_link",
+    "brand": "VAVSEA",
+    "category": "Appliances"
+  },
+  {
+    "name": "KODAK PIXPRO AZ255-BK 25x Optical Zoom Digital Camera, 16MP CMOS Sensor, 1080p Full HD Video, 3 LCD, AA Batteries",
+    "description": "KODAK PIXPRO AZ255-BK Astro Zoom Digital Camera (Black) 25x Optical Zoom, 16MP CMOS Sensor, 1080p Full HD Video, 24mm Wide Angle Lens, OIS (Optical Image Stabilization), 3 LCD, AA Alkaline Batteries",
+    "price": 138.16,
+    "featured": false,
+    "rating": 3.2,
+    "image": "https://drive.google.com/file/d/1Xfe1IryTAO_ahUUa8Y7kSx9D3C9xGH2q/view?usp=drive_link",
+    "brand": "Kodak",
+    "category": "Cameras"
+  },
+  {
+    "name": "Pringles Snack Stacks Variety Pack Potato Crisps Chips, Lunch Snacks, 19.5 oz, 27 Count",
+    "description": "What comes after opening this pack of portable Pringles Snack Stacks? The crisp, hit-the-spot taste of potato seasoned with just-the-right flavors. Includes one, 19.5-ounce box containing 6 Original, 6 Cheddar Cheese, 6 Sour Cream and Onion, 3 BBQ, 3 Cheddar and Sour Cream, and 3 Pizza cups with crisps flavored from edge to edge that keep you coming back for more. With their delicious taste and original, stackable shape, Pringles Potato Crisps inspire good times with friends and family; every portable cup gives you the freedom to treat your taste buds when and where you want. This 27-count variety pack is great to stock your home pantry or dorm room with a quick snack. Grab a cup for your workspace, pack a cup in school lunches or bring along in the car. The crave-worthy crunch and compact cup of Pringles Potato Crisps makes a delicious addition to gift baskets. However you eat them, you'll love the iconic shape and delicious taste of Pringles Potato Crisps Chips. Shelf-Stable.",
+    "price": 19,
+    "featured": true,
+    "rating": 3.1,
+    "image": "https://drive.google.com/file/d/1qiyWtEqDECO83TvYBwfmWL6XCR3DDzmy/view?usp=drive_link",
+    "brand": "Pringles",
+    "category": "Grocery"
+  },
+  {
+    "name": "Castle Art Supplies Gold Standard 120 Coloring Pencils Set with Extras Oil-based Colored Cores Stay Sharper, Tougher Against Breakage | For Adult Artists, Colorists | In Zipper Case",
+    "description": "MADE TO EXCEED Our flagship professional colored pencils set, ultimate 120 color choice, named, numbered in color families for picking the perfect shade: just flip between the layers of the protective, go-anywhere, padded fabric zip-around case. TIP-TOP PERFORMANCE Colored drawing pencils formulated with oil for greater hardness, the vibrantly pigmented core encased in fine-grain basswood can be sharpened to a finer, longer-lasting point with greater resistance to breakage even if dropped. CREATIVE FULFILMENT Superior control over color layering, unique blending capability, better for highly detailed areas, exceptional color coverage, burnish for richer, deeper tones, longer lasting with more coloring time between sharpening.",
+    "price": 40.37,
+    "featured": true,
+    "rating": 3.3,
+    "image": "https://drive.google.com/file/d/12PaLkJR_TFGIqR2QkseggVZhA7wWJjpo/view?usp=drive_link",
+    "brand": "Castle Art Supplies",
+    "category": "Kids"
+  },
+  {
+    "name": "Polaroid Wave Underwater Digital Camera with HD Video Recording, Waterproof Action Camera",
+    "description": "The Polaroid Wave Digital Camera is the perfect companion for any underwater adventure! Just lock it into its protective case and it can go underwater up to 10 feet and capture 18 MP still photos and HD video. With the 2.4 rear preview screen, you can review the recent video footage or still photos to make sure you are capturing the best shots.",
+    "price": 34.66,
+    "featured": true,
+    "rating": 4.5,
+    "image": "https://drive.google.com/file/d/1-Xig3SULNZ0TG3ap61SvFK8cFehTyp0a/view?usp=drive_link",
+    "brand": "Polaroid",
+    "category": "Cameras"
+  },
+  {
+    "name": "Joybees Women's & Men's Active Clog, sizes 5-15",
+    "description": "These super-comfy, light-as-a-feather, durable Joybees Active Walking Supportive Clogs are the perfect pair for on-the-go activities. Sink into the softness of the honeycomb pillow top footbed and choose from a variety of fun designs! These Women's Active Clogs feature a hexagon EVA outsole that ensures durability, grip and ease for everyday movements. The Ethylene Vinyl Acetate (EVA) material provides a range of benefits from comfort and water-friendly attributes.",
+    "price": 16.9,
+    "featured": true,
+    "rating": 5,
+    "image": "https://drive.google.com/file/d/1vaNyiWWlsCzHRT74mqL_mFSQpa2JqHkM/view?usp=drive_link",
+    "brand": "Joybees",
+    "category": "Footwear"
+  },
+  {
+    "name": "Olaplex Bond Maintenance No. 4 Shampoo and No. 5 Conditioner, 33.8 oz COMBO",
+    "description": "When hair is stressed, it can quickly become fragile and lose its luster. The right shampoo for damaged hair can restore manageability, shiny and health. OLAPLEX NO. 4 Bond Maintenance Shampoo works to bond strands, reinforcing them against frizz, breakage and split ends. Free of sulfates, parabens and phthalates, this powerful yet gentle formula is safe for all hair types.Try this hair conditioner for dry hair the next time your strands feel parched! Ideal for repairing and restoring dry locks, the Olaplex No. 5 Bond Maintenance Conditioner helps re-link broken bonds and split ends while moisturizing and nourishing. This product is perfect for everyday use and is free of aldehydes and formaldehyde. Simply apply after shampooing, leave in for three minutes and rinse.",
+    "price": 97.67,
+    "featured": true,
+    "rating": 3.7,
+    "image": "https://drive.google.com/file/d/1W5pR603yYPfVinTZt7zbEA2s2Z_52erm/view?usp=drive_link",
+    "brand": "Olaplex",
+    "category": "Beauty"
+  },
+  {
+    "name": "onn. 32” Class HD (720P) LED Roku Smart Television (100012589)",
+    "description": "Binge on movies and TV episodes, news, sports, music and more! We insisted on 720P High Definition for this 32” LED TV, bringing out more lifelike color, texture and detail. We also partnered with Roku to bring you the best possible content with thousands of channels to choose from, conveniently presented through your own customizable home screen. Watch via cable, satellite, HDTV antenna or just start streaming from your favorite app. Like the sound of your own voice? You can actually use it with the Roku mobile app to search for the title, artist, actor or director, or just go old-school with our handy remote. We handle all software updates too, automatically, so all you have to worry about is what to watch. Lose yourself in the ultimate viewing experience. We're onn.™ to something here. Say goodbye to stressful decision-making and fear of the electronics aisle. Our mission is simple…to deliver great products and make it easy. Choose onn. and get back to using your brainpower for the important things in life like pondering the question, ”What should I binge watch this weekend?”",
+    "price": 233,
+    "featured": true,
+    "rating": 2.1,
+    "image": "https://drive.google.com/file/d/1yIYpCfPXASSx3IEkMUwI6rCEjumK2Oxh/view?usp=drive_link",
+    "brand": "onn.",
+    "category": "Electronics"
+  },
+  {
+    "name": "Kenra Platinum Hot Spray #20 8 oz",
+    "description": "Kenra Professional has a passion for innovating a range of high-performing products. Created with salon professionals in mind, these products offer superior results. Items such as their volumizing shampoo, bring fine limp locks back to life with fuller body. Natural ingredients including aloe leaf extract, lavender extract and rosemary leaf extract cleanse hair gently and stimulate roots to boost their volume. Product ingredients also include proteins and vitamins, nourishing hair while moisturizing dry strands. While cleaning and conditioning, you're also improving the shine, manageability and strength of hair, smoothing frizz at the same time. Products are perfect for all hair types, including color treated hair.",
+    "price": 28.31,
+    "featured": false,
+    "rating": 4.2,
+    "image": "https://drive.google.com/file/d/1j0kg4Oz2HAFyerAt6v4NmVJF_Uimv6DN/view?usp=sharing",
+    "brand": "Kenra",
+    "category": "Beauty"
+  },
+  {
+    "name": "BaytoCare Wooden Free Standing Bathroom Floor Cabinet with 4 Drawers, Bathroom Storage Organizer also Suitable for Kitchen Entryway Bedroom, White Finish",
+    "description": "This 4 Drawers Storage Cabinet is highly recommended to you. It's fantastic for the bathroom or in any other room where you require some additional storage. Adopting high quality P2 MDF material, it features smooth, stable and sturdy. It has 4 drawers, so that you can store a lot of items in it. Moreover, with elegant appearance and concise design, it can coordinate with any style decoration. So what are you waiting for? Trust us, it's worth buying!",
+    "price": 692.2,
+    "featured": false,
+    "rating": 4.3,
+    "image": "https://drive.google.com/file/d/1U5yiL9PpnZOgZIpBAxQ8byYIx0ATBU7_/view?usp=drive_link",
+    "brand": "FCH",
+    "category": "Home"
+  },
+  {
+    "name": "Furinno Basic 6 Cube Storage Organizer Bookcase Storage with Bins, Light Cherry/Ivory",
+    "description": "Furinno basic bookcases series is designed to meet your need of fits in your space and fits on your budget. The main material- medium density composite wood is made from recycled materials of rubber trees. All the materials are manufactured in Malaysia and comply with the green rules of production. There is no foul smell, durable and the material is the most stable amongst the medium density composite woods. A simple attitude towards lifestyle is reflected directly on the design of Furinno Furniture, creating a trend of simply nature. All the products are produced and packed 100-% in Malaysia with 90% - 95% recycled materials.",
+    "price": 84.78,
+    "featured": false,
+    "rating": 3.6,
+    "image": "https://drive.google.com/file/d/10J1jCv-Zx8Oc_ag1w2srAIQWUBCi8FtG/view?usp=drive_link",
+    "brand": "Furinno",
+    "category": "Furniture"
+  },
+  {
+    "name": "Furinno Turn-N-Tube 3-Tier Storage Shelf Bookcase, Multiple Colors",
+    "description": "Furinno Turn-N-Tube Series offers a variety of storage shelves with different sizes, levels, width, depth and colors combination. This series features both 3-tier and 4-tier storage shelves with refreshing colors. Both sizes come with color options of Espresso and French Oak Grey. This series is designed to meet the demand of durability and efficiency. It is suitable for homes and fits most rooms by fully utilizing small spaces. The shelf is made of MDF and PVC tubes. The assembly of the shelf is very easy and requires no tools. All the parts and assembly instruction is provided. Just turn and twist the tubes against the panels and tighten them. The panels have rounded edges to prevent cuts and injuries. The shelves also have complementary drawer bins (11144/SD11144) which are not included in the set. Care instructions: Wipe clean with clean damped cloth. Avoid using harsh chemicals. Pictures are for illustration purpose. All decor items are not included in this offer.",
+    "price": 27.3,
+    "featured": false,
+    "rating": 2,
+    "image": "https://drive.google.com/file/d/1DyvNcfSpJHJVl9TjkVYfVupuqce-Db3v/view?usp=drive_link",
+    "brand": "Furinno",
+    "category": "Furniture"
+  },
+  {
+    "name": "Samsung Galaxy S24+ 256GB Unlocked Android Cell Phone with 50MP Camera, Marble Gray",
+    "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+. Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure. With Galaxy AI on GalaxyS24+, life just got a whole lot easier —and a lot more fun. Epic, just like that.",
+    "price": 1000.01,
+    "featured": false,
+    "rating": 4.6,
+    "image": "https://drive.google.com/file/d/1xe0FJ8o-qKZn8LDZGP1U4Fciisix4478/view?usp=drive_link",
+    "brand": "Samsung",
+    "category": "Mobiles"
+  },
+  {
+    "name": " Restored Samsung Galaxy S22 Ultra 5G S908U (Fully Unlocked) 128GB Phantom Black (Refurbished)",
+    "description": "This item is in very good condition, and shows only minimal wear (such as light scratches). It is backed by a 90 day warranty. It is fully functional and has been professionally refurbished, inspected and cleaned to very good condition. This product has been determined fully functional by our industry leading 30+ point functionality inspection. UL approved power adapter and charging cable are included. This product will not come in its original packaging; Headphones, SIM card and manual will not be included.",
+    "price": 460.85,
+    "featured": false,
+    "rating": 3.6,
+    "image": "https://drive.google.com/file/d/1wqRDpf0i8sUMswZAwuQUrPoB8cupEtwx/view?usp=drive_link",
+    "brand": "Samsung",
+    "category": "Mobiles"
+  },
+  {
+    "name": "Celestial Night Women’s Sleep Pants, Sizes ",
+    "description": "You can never have enough cozy pants! Add these Celestial Night Pajama Pants to your regular PJ rotation. Designed in a colorful print featuring the dazzling stars of the night sky–perfect if you love to stargaze or are called the dreamer of your friend group. When it’s time to wind down for the day, these sleep pants match your vibe and… look amazing!",
+    "price": 6.55,
+    "featured": true,
+    "rating": 1.1,
+    "image": "https://drive.google.com/file/d/1cvyUyVhqt5DlAihc4xwtZqbW-ffsAAXZ/view?usp=drive_link",
+    "brand": "LICENSE",
+    "category": "Clothes"
+  },
+  {
+    "name": "Newshe Eternity Ring Wedding Band for Women 925 Sterling Silver 1.13ct Round Rose Gold AAAAA Cz Size 9",
+    "description": "Newshe Jewellery Beautiful petite 1 piece AAAAA grade cubic zirconia engagement wedding band eternity ring for women. The engagement ring wedding band crafted from 925 Solid Sterling Silver.",
+    "price": 23.54,
+    "featured": false,
+    "rating": 5,
+    "image": "https://drive.google.com/file/d/1ZIeVyl6W3Mxdyepc2L6ffStAerQPPxbn/view?usp=drive_link",
+    "brand": "NEWSHE JEWELLERY",
+    "category": "Jewellery"
+  },
+  {
+    "name": "Godzilla King of the Monster Shin Mechagodzilla 10pcs Toy Figures Set Party Gift",
+    "description": "Godzilla King of the Monster Shin Mechagodzilla 10 pcs Toys Figures Set",
+    "price": 44.6,
+    "featured": true,
+    "rating": 1.5,
+    "image": "https://drive.google.com/file/d/1vEO180G7gfqGdT9fHMIinbkosx_cvHiC/view?usp=drive_link",
+    "brand": "Big Big Shop",
+    "category": "Toys"
+  },
+  {
+    "name": "3-Level Bookshelf With Doors",
+    "description": "A valuable bookshelf storage type space is just what you need to store a variety of items, from books to clothing, and more! Prevent dust and eyes from landing on your items with the doors.",
+    "price": 47.25,
+    "featured": false,
+    "rating": 3.9,
+    "image": "https://drive.google.com/file/d/1P3j_v0josYDzWXkaOc-H-EfOqafJz5-V/view?usp=drive_link",
+    "brand": "Back2Basics",
+    "category": "Furniture"
+  },
+  {
+    "name": "HP Stream 14 inch Laptop Intel Processor N4102 4GB RAM 64GB eMMC Pink (12-mo. Microsoft 365 included)",
+    "description": "Spend your days staying social, productive and connected to what matters with the dependable power of the HP Stream 14 Laptop. This deceptively small, portable laptop still boasts a HD display with an ultra narrow bezel that's perfect for surfing, streaming and more on the go. With a reliable Intel processor and one-year subscription to Microsoft 365, you'll be the go-to person for documents, data and presentations.",
+    "price": 258.34,
+    "featured": false,
+    "rating": 2.9,
+    "image": "https://drive.google.com/file/d/1MUOpLAEzSTzPHcMOljHqa9_0zqCedoKF/view?usp=drive_link",
+    "brand": "HP",
+    "category": "Laptops"
+  },
+  {
+    "name": "HP 15.6 inch Laptop Intel Processor N200 4GB RAM 128GB UFS Scarlet Red (12-mo. Microsoft 365 included)",
+    "description": "Say hello to the most reliable PC that easily passes the vibe check. HP 15 Laptop is built with dependable technology, next-level power, and rock-solid performance that turns your to-do lists into to-done lists. Go from shopping to streaming to keeping up with friends all at the speed of fun. With HP PCs, you get more ‘oomph’ from your computer with less ‘oof’ from your wallet, so you can take on today with tech built for tomorrow. The HP 15.6 Laptop PC empowers you to do more with the reliable power of an Intel Processor, plus fast storage, and powerful graphics in a sleek, thoughtfully designed device. Created for wherever the day takes you and built with ocean-bound and post-consumer recycled plastics, it’s easy to show some love for the planet.",
+    "price": 250.22,
+    "featured": false,
+    "rating": 2.9,
+    "image": "https://drive.google.com/file/d/1BVOE5PhIOPIBphpMh4TKY2hwCjkIeKSv/view?usp=sharing",
+    "brand": "HP",
+    "category": "Laptops"
+  },
+  {
+    "name": "Barbie Big Girls Pajama Shirt Pants and Slippers 3 Piece Little Kid to Big Kid",
+    "description": "Get ready for an adventure in the Dreamhouse and embrace Barbies' amazing sense of style with this cute, comfy and stylish Pajama Shirt & Pajama Pants & Slippers! This clothing featuring these classic poseable dolls will inspire the ultimate fashionista in your life to reveal their own original look and unique personality just like Barbie and her friends Chelsea and Ken do. After all, what's more fashionable than the fashion icon herself? Add this style to your closet today and watch as Barbie's signature confidence, extra kind nature, and happy attitude comes to life.",
+    "price": 31.83,
+    "featured": false,
+    "rating": 3.8,
+    "image": "https://drive.google.com/file/d/1irB0yLzgd_Ij8QFXSpi4kPyBUxjQG2t5/view?usp=drive_link",
+    "brand": "Barbie",
+    "category": "Kids"
+  },
+  {
+    "name": "Furinno Pasir Contemporary Engineered Wood 3-Tier Open Shelf in Plain White",
+    "description": "Furinno Pasir Series Storage and Organization cabinet bookcase feature simplicity and easy blend in with any home decor. This series comes in difference sizes in height and slightly different in door design to offer multiple options to create your own storage space. This series are made of 12mm medium density composite wood made from recycled materials of rubber trees. All the materials are manufactured in Malaysia and comply with the green rules of production. There is no foul smell, durable and the material is the most stable amongst the medium density composite woods. A simple attitude towards lifestyle is reflected directly on the design of Furinno Furniture, creating a trend of simply nature. All the products are produced and assembled 100 percent in Malaysia with 95% - 100% recycled materials. Care instructions: wipe clean with clean damped cloth. Avoid using harsh chemicals. Pictures are for illustration purpose.",
+    "price": 36.12,
+    "featured": false,
+    "rating": 4.9,
+    "image": "https://drive.google.com/file/d/14OZ_kGt4FGAMjBs40BzHpH7uGroc54lZ/view?usp=drive_link",
+    "brand": "Furinno",
+    "category": "Furniture"
+  },
+  {
+    "name": "HP 14 Laptop for Business and Student, 4GB RAM, 64GB eMMC, Intel N4120 Quad-Core Processor, 1-Year Office 365, Windows 11 Home in S Mode, Silver",
+    "description": "Original Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.",
+    "price": 346.32,
+    "featured": true,
+    "rating": 2.7,
+    "image": "https://drive.google.com/file/d/1x0ww5keUTEQe9_uRUas4wwST-fW8Ryrr/view?usp=drive_link",
+    "brand": "HP",
+    "category": "Laptops"
+  },
+  {
+    "name": "RXBAR Coconut Chocolate Chewy Protein Bars, Gluten-Free, Ready-to-Eat, 22 oz, 12 Count",
+    "description": "Simple, delicious ingredients make RXBAR protein bars a satisfying way to fuel your day. These wholesome coconut chocolate protein bars are filled with ingredients you can recognize. Each snack bar is made with egg whites for protein, crunchy almonds, smooth cashews, and dates to bind it all together. Enjoy the taste of simple ingredients that will crush any sweet cravings you have during the day; Just the right amount to fill you up, each serving contains 12g of protein (21% daily value), is gluten free, and ready to help you take on the day. Enjoy wholesome goodness worth snacking on. On your way to the gym, in the office or paired with your morning cup of joe, improve your daily routine with RXBAR Coconut Chocolate protein bars.​ Shelf-Stable.",
+    "price": 55.61,
+    "featured": true,
+    "rating": 3.8,
+    "image": "https://drive.google.com/file/d/1tD5Q8bBrEZ8db3SqVYem9DxVHQJzOFV4/view?usp=drive_link",
+    "brand": "RXBAR",
+    "category": "Grocery"
+  },
+  {
+    "name": "Fantaslook Sweatshirt for Women Long Sleeve Tunic Tops Color Block Crewneck Sweatshirts Side Split",
+    "description": "Fantaslook Sweatshirt for Women Long Sleeve Shirts Tunic Tops Color Block Crewneck Sweatshirts Side Split. This sweatshirt for women use skin-friendly soft lightweight abric comfortable to wear. Crewneck sweatshirts features long sleeve, pullover, color block, tunic tops, side split, loose fit over your hips. Long sleeve shirts for women adorned with captivating color block patterns, adds a visual appeal and show your unique fashion sense. The long sleeve design ensures year-round comfort, keeping you snug in cooler temperatures while exuding a trendy vibe. The crewneck feature provides a timeless touch, effortlessly framing your neckline. Womens tops boasts side splits that offer a contemporary twist. The side split Womens long sleeve tops is chic and casual to daily wear, tops to hide belly for women, it is a basic sweatshirts to add to your wardrobe in fall and winter, easily be dressed up with jeans or leggings makes you look more attractive. ",
+    "price": 279.21,
+    "featured": false,
+    "rating": 3.6,
+    "image": "https://drive.google.com/file/d/1D3M7DS1JWi4rREisWhGjP8vQ0UHCx1gz/view?usp=drive_link",
+    "brand": "Fantaslook",
+    "category": "Clothes"
+  },
+  {
+    "name": "The Super Mario Bros. Movie 7 inch Feature Bowser Action Figure with Fire Breathing Effects",
+    "description": "Bring The Super Mario Bros. Movie 7 inch Bowser figure to life with his fire breathing effect! Inspired by the movie, Bowser comes with premium details and 15 points of articulation. Activate the “fire breathing” feature by adding water to Bowser’s reservoir on the back of his hair using the included dropper, then pressing the side spike – watch as illuminated atomized vapor shoots from his mouth! Comes in a premium window box.",
+    "price": 22.46,
+    "featured": true,
+    "rating": 2.2,
+    "image": "https://drive.google.com/file/d/1nH_GdC4Ee75JhAqGOsKnTEOcbxwDqEc9/view?usp=drive_link",
+    "brand": "Super Mario",
+    "category": "Toys"
+  },
+  {
+    "name": "HP Stream 14 HD Display, Student and Business Laptop, Intel Celeron N4120 Processor, 8GB Memory, 64GB eMMC, Wi-Fi, Windows 11 Home, 1 Year Office 365 Included, Silver with Mazepoly Accessories",
+    "description": "Hooray Tech sells computers with upgraded configurations. If the computer has modifications (listed above), then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised. If no modifications are listed, the item is unopened and untested. Through our in-depth inspection and testing, defects and defects can be significantly reduced. Upgraded RAM/SSD is covered by 1-Year Hooray Tech warranty and remaining parts by 1-Year Manufacturer warranty.",
+    "price": 324.14,
+    "featured": false,
+    "rating": 4.2,
+    "image": "https://drive.google.com/file/d/1JlEq3mBGFsJ2-CCyg9NDZ2jYkdhttuCD/view?usp=drive_link",
+    "brand": "HP",
+    "category": "Laptops"
+  },
+  {
+    "name": "PTZ 360° View Solar Home Wireless Security Camera, WiFi, Outdoor, Spotlight & Siren, 2 Pack, 2K/3MP Color Night Vision Wireless Surveillance Camera",
+    "description": "1️⃣Upon charging, home surveillance will last 60–100 days. Wintertime solar panel use is continuous.☀️【Solar Powered & Battery Rechargeable】  Rainwater reduce the possibility to get inside the outdoor security camera's built-in rechargeable battery thanks to its IP65 waterproof construction. To get the most amount of sunshine exposure, adjust the solar panel's position using the 360° mounting bracket and the 3 meter wire. The security camera's solar panel provides continuous electricity for your home's protection. 2️⃣Accurate, quicker, and more extensive PIR motion detection. 360-degree sharper seeing prompt that no corner is missed. 🚨【Spotlight Siren & 10-Level PIR Detection】  Humanoid motion detection is accurate and sensitive thanks to an advanced AI system. An 80dB siren or a bright floodlight will activate when an intruder's movements is detected by a solar-powered outside security camera, alerting potential intruders to their presence. 3 Options: light alarm/ siren alarm/ siren and light alarm. Customize 1-10 level PIR motion detection in day/ night time to adjust PIR distance between 4-13 meters. 📷【2K 100ft Color Night Vision】More vibrant than black-and-white night vision, the solar security camera's 2K 3MP Quad HD color motion detection image allows you to zoom in with confidence to uncover more details about the burglar. 🖌【5 Customize Detection Zones】 In the security camera, exclude the neighbor's property and the main outdoor route. Prioritize dependable motion detection for the garage and front doors. Reduce the number of annoying alerts and safeguard private areas.🌎【4X Zoom & 360° Coverage】The PTZ capability of the wireless security camera allows for 360° outside panorama home security self-monitoring from any location. It also supports 120° vertical rotation, 355° horizontal rotation, and 4X digital zoom operation through an app.3️⃣For immediate hands-free home security monitoring, activate voice command. 👀【Multi-Users Viewing & Two-Way Audio & Work with Alexa】Scan the QR code to share the exterior camera with family members who are away on vacation or business, and keep an eye on the house together. With AES128's cutting-edge encryption standard, no one will be able to view videos from an outside security camera without your consent. You may use voice control to see live photos from your Alexa solar security camera.📡【Metal Dual WiFi Antennas & 2.4Ghz WiFi】Solar wireless wifi security cameras with dual antennae are more reliable and comprehensively covered. There may be more than 49 feet separating an outside security camera from a wifi router. You won't be disturbed by frequent wifi outages.",
+    "price": 103.19,
+    "featured": false,
+    "rating": 4.7,
+    "image": "https://drive.google.com/file/d/1_8QYvl7SxWsZcdA_gtGP-diXlae-ws77/view?usp=drive_link",
+    "brand": "ieGeek",
+    "category": "Cameras"
+  },
+  {
+    "name": "TOPVISION 4MP Security Cameras Wireless Wifi, 360° View Security Camera Outdoor with Full Color Night Vision, IP65 Waterproof, 2-Way Audio, Home Security Camera for Indoor/Outdoor, 2.4G Wifi",
+    "description": "【Pan Tilt 360° View & 3MP HD Image】Easy control the WiFi camera lens position, Vertical 90°, providing wide-area 360°view almost no blind spots, 4MP (2592×1944) high resolution let you see more detail. (This outdoor security camera only supports 2.4G WiFi, not 5G WiFi.)",
+    "price": 220.47,
+    "featured": false,
+    "rating": 2.1,
+    "image": "https://drive.google.com/file/d/1Y3Fmnv3rnhiyGHN7qdDEvgjXzF63L3Sh/view?usp=drive_link",
+    "brand": "TopVision",
+    "category": "Cameras"
+  },
+  {
+    "name": "Restored Apple iPhone 11 64GB Red Fully Unlocked with LED Wireless Speaker, Bluetooth Headphones, Screen Protector, Wireless Charger, & Phone Stand (Refurbished)",
+    "description": "This Apple iPhone 11 has been professionally restored to working order by an approved vendor. Manufacturer Refurbished Grade B Fully Functional in Excellent Working Condition. 8/10 Cosmetic Rating. Fully Unlocked compatible with all carriers. Internally, the iPhone 11 is powered by a 64-bit 2.65 GHz Apple A13 Bionic processor with six cores -- two performance cores and four high-efficiency cores -- and a 8-core Neural Engine. It has 4 GB of RAM, 64GB of flash storage. Bundle includes Wireless Speaker, Bluetooth Headphones, Screen Protector, Wireless Charger, & Phone Stand.",
+    "price": 222.31,
+    "featured": false,
+    "rating": 4.6,
+    "image": "https://drive.google.com/file/d/1HV0dPyx_6ZYJfl_PjRcvYY4P2IsFxATa/view?usp=drive_link",
+    "brand": "Apple",
+    "category": "Mobiles"
+  },
+  {
+    "name": "MONFOOT Women's and Men's Athletic Cushioned Heel Tab Ankle Socks, 5-Pairs (Black-Neon)",
+    "description": "MONFOOT Unisex Athletic Black Ankle Socks is a great choice for running or others athletic activities. Cushioned toe and sole prevents blisters, provide shock absorption and arch support. Mesh Ventilation reduces heat and manage moisture.",
+    "price": 20.84,
+    "featured": false,
+    "rating": 2.2,
+    "image": "https://drive.google.com/file/d/1O3jkyduuoN_Eo9iQqspBWbuoU0ZrlzXI/view?usp=drive_link",
+    "brand": "Monfoot",
+    "category": "Footwear"
+  },
+  {
+    "name": "Castellows - A Little Goes A Long Way - Country - CD",
+    "description": "The debut EP from neo-traditionalist country trio, The Castellows, featuring introductory singles No. 7 Roa andHurricane.With this EP, the sister trio puts their masterful three-part harmonies on display through 5 new songs",
+    "price": 12.53,
+    "featured": false,
+    "rating": 2.1,
+    "image": "https://drive.google.com/file/d/1FUp20FmyV_vW_R1yBK77yH-SDTm-k9kh/view?usp=drive_link",
+    "brand": "Warner Nashville",
+    "category": "Music"
+  },
+  {
+    "name": "Drew Parker - At The End Of The Dirt Road - Country - CD",
+    "description": "Country music is a lot like life. Fads come and go, and some folks will do anything to get ahead. But for Warner Music Nashville's Drew Parker, there's something to be said for staying put. A modern traditionalist with a country style rooted in the rich textures of the '90s, he doesn't follow trends. His tried-and-true music is a timeless reflection of the steady life he leads - a metaphorical life at the end of the dirt road - with writing that turns simplicity into serenity. And while that hasn't always been in style, it has always been his style. Even when it seemed like a liability. When I moved to Nashville eight years ago, it didn't seem like the kind of music I wanted to make was where Nashville was at - it seemed like a bad time to move to town, he says with a laugh. But you know, hindsight is 20/20, and in reality it was the perfect time.... I just had to make sure I didn't chase anything. Today, his dedication has paid off. Staying true to himself (for better or worse), he's risen from his small town Georgia roots to the upper echelons of Music Row, fusing craftsman-style country penmanship with the sonic spirit of icons from Keith Whitley and Merle Haggard to Travis Tritt, Alan Jackson and George Strait. It seems the market has come to him. A two-way singer-songwriter, his co-written hits include Luke Combs' Gold certified Lonely One, Platinum certified 1,2 Many (featuring Brooks & Dunn), BMI Song of the Year winner Forever After All and Grammy nominated Platinum Number One, Doin This - plus Jake Owen's Gold-certified Number One,Homemade.They're all imbued with organic twang and attention to detail, and on the artistic side, he's the same guy. Racking up more than 80 million career streams with gutsy anthems like While You're Gone, Parker remains committed to carving out space for regular country folks in the mainstream, and it's never mattered what everyone else was doing. Far from a gimmick, Parker's just been this way since he started - and with his new EP At the End of the Dirt Road, he's not changing a thing. But nowadays, that's kind of the point.Always do what you want to do, and just hope that it somehow gets cool again, the steady new star explains. And if it don't, that's fine. At least you stayed true to your roots.The follow up to his While You're Gone EP from 2020, At the End of the Dirt Road finds Parker staying true as always, and continuing to lead country's back-to-basics revival. But while success has made his roots in Nashville deeper than ever, not everything is the same. Now a father and feeling the weight of that blessing, his latest work reflects a new, more mature personal chapter.",
+    "price": 16.52,
+    "featured": false,
+    "rating": 5,
+    "image": "https://drive.google.com/file/d/1f5axjNlour479M_324_zCZ-yD4aE9aeg/view?usp=drive_link",
+    "brand": "Warner Nashville",
+    "category": "Music"
+  },
+  {
+    "name": "Furinno Hermite Desk Top Organizing Shelf Bookcase, White",
+    "description": "Furinno Hermite desk top organizing shelf bookcase helps you break from the cluttered desktop and create a new look for you while working from home. It comes with multiple color options that easily blend with any wall color and decoration. It features separate compartments to offer more storage opportunities for your working space. Your books, office supplies, and other stuff can be organized in your desired way. This series is made of carb-grade composite wood and manufactured in Malaysia. There is no foul smell, durable and the material is stable. A simple attitude towards lifestyle is reflected directly in the design of Furinno Furniture, creating a trend of simply nature.",
+    "price": 70.05,
+    "featured": false,
+    "rating": 1.8,
+    "image": "https://drive.google.com/file/d/14OZ_kGt4FGAMjBs40BzHpH7uGroc54lZ/view?usp=drive_link",
+    "brand": "TFBGOYTYSS",
+    "category": "Furniture"
+  },
+  {
+    "name": "Frito-Lay Flavor Mix Variety Pack Snack Chips, 28 Count Multipack",
+    "description": "Convenient, compact and complete with everyone's favorite brands, Variety Packs are easy to bring along on all your family adventures. If you're celebrating a big win on the soccer field, taking a family road trip, or thinking about an afternoon snack, Frito-Lay Variety Packs have everyone covered. So, whether your family's next adventure is at home or on the go, pack the snack that's got your back! 28 count snacks of Frito-Lay Flavor Mix Multipack. Shelf-Stable / Ambient. Multipack Retail Packaging. Frito-Lay Chips and Snacks. Perfect for on the go snacking and adventures the whole family can enjoy!",
+    "price": 9.07,
+    "featured": false,
+    "rating": 4.4,
+    "image": "https://drive.google.com/file/d/1PqSYNZl4AEoBGpPDkFcxw4xEzZpJP617/view?usp=drive_link",
+    "brand": "Frito-Lay",
+    "category": "Grocery"
+  },
+  {
+    "name": "LongBay Women's Adjustable Diabetic Slippers Memory Foam Arthritis Edema House Shoes",
+    "description": "Soft wool-like knit upper plus silky faux bunny fur lining, with unique hook & loop closure for adjustable comfort perfect for tired, swollen feet and better stability. Easy slip-on, full coverage style with comfortable, adjustable strap for customized fit that hugs your feet.",
+    "price": 23.9,
+    "featured": true,
+    "rating": 3.1,
+    "image": "https://drive.google.com/file/d/1ZkOCkl4Ox0UvDC9PYTO9RwYBngyE5CsQ/view?usp=drive_link",
+    "brand": "LB LONGBAY SINCE 1997",
+    "category": "Footwear"
+  },
+  {
+    "name": "XEOVHVLJ Security Camera Outdoor 2Mp Wifi Camera W/ 3W Solar Panel Camera Battery Powered Home Surveillance Camera Motion Detection Save On Promotional Products",
+    "description": "Solar Powered & Wire-Free & 120°,The solar panel will charge security camera with direct sunlight. No circuit wiring hassles, you can place it anywhere. The solar security camera is also equipped with battery inside,. 365 days Non-stop power to keep an eye on what matters. Keeping 2.4GHz WiFi on, you will never miss a thing under the 120° Field of View of the camera. Full 1920x1080P HD & Color Night Vision: The wireless solar security camera is 1080p full HD day time video and motion-activated spotlight color night vision Ward off Intruders,The strobe light, integrated spotlight or built-in will be activated once the outdoor security camera detects the intruders, even in dark areas you can see clearly. This wireless security camera is perfect to monitor the front door, gate, garage, outside window, porch, backyard and more, which guard your home security",
+    "price": 47.48,
+    "featured": false,
+    "rating": 2,
+    "image": "https://drive.google.com/file/d/1-vpZhQf7RxHWPCnK0bwhj1_tqBVtJZ1g/view?usp=drive_link",
+    "brand": "XEOVHVLJ",
+    "category": "Cameras"
+  },
+  {
+    "name": "Mainstays Tuscany Ridge 4-Piece Conversation Set, Red",
+    "description": "Newly styled from 2021, the Mainstays Tuscany Ridge 4-Piece Outdoor Wicker Conversation Set is the ideal set to define your outdoor space. This casual set is built for entertaining and includes a cushioned loveseat, two cushioned chairs, and a glass-top coffee table with a bottom shelf for display or storage of everything you need to enjoy your time outdoors. Built to withstand the elements with all-weather wicker and heavy-duty steel frames and cushions that feature weather-resistant olefin. The Mainstays Tuscany Ridge 4-Piece Outdoor Wicker Conversation Set is designed with classic good looks for hours of outdoor enjoyment.",
+    "price": 242.57,
+    "featured": true,
+    "rating": 4.5,
+    "image": "https://drive.google.com/file/d/1DQUn29jUnaaE4KOr9usyuiWXS8DDZCCo/view?usp=drive_link",
+    "brand": "Mainstays",
+    "category": "Home"
+  },
+  {
+    "name": "Beats Solo3 Wireless Headphones - Black",
+    "description": "Beats Solo3 Wireless Headphones - B",
+    "price": 45.73,
+    "featured": false,
+    "rating": 3.9,
+    "image": "https://drive.google.com/file/d/1y_7vRv22NQ4Xg_BBcOnnOSg82ZwwCkRW/view?usp=drive_link",
+    "brand": "Beats by Dr. Dre",
+    "category": "Electronics"
+  },
+  {
+    "name": "The Pioneer Woman Timeless Poly Cutting Board, Teal",
+    "description": "The Pioneer Woman Timeless Poly Cutting Board provides a durable cutting surface for all your kitchen prep needs. Every good country chef needs a quality cutting board. Whether you're slicing, dicing, or chopping in style, this cutting board is sure to be an eye-catching kitchen accessory. The indentation along the edge catches any excess liquids to keep your counter space clean and clear. Plus, it makes a suitable serving board for cheese assortments, breads, or sliced vegetables if you're entertaining. Just pair with other items in The Pioneer Woman collection to complete the vibe. Enjoy the versatility and durability of The Pioneer Woman Timeless Poly Cutting Board.",
+    "price": 25.44,
+    "featured": false,
+    "rating": 4.8,
+    "image": "https://drive.google.com/file/d/1kYizOiiORFlAdxdD7bCaKflweFlfqiPZ/view?usp=drive_link",
+    "brand": "The Pioneer Woman",
+    "category": "Home"
+  },
+  {
+    "name": "ASFGIMUJ Boys And Girls Two Piece Set Short Sleeved Running Suit Casual Clothes New Summer T Shirt Shorts,Size 18 Months-24 Months",
+    "description": "Children's short-sleeved running suit casual quick-drying clothes for boys and girls new summer T-shirt shorts two-piece set",
+    "price": 5.65,
+    "featured": false,
+    "rating": 2.5,
+    "image": "https://drive.google.com/file/d/1WLLllkUglcJid3Yxu2KTiuDMjSBUjDC0/view?usp=drive_link",
+    "brand": "ASFGIMUJ",
+    "category": "Kids"
+  }
+]
