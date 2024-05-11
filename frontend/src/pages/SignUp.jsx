@@ -11,7 +11,7 @@ const Register = () => {
   const handleSubmit =  async(e) => {
     e.preventDefault();
     try {
-      let res = await fetch("http://localhost:5000/api/users/register", {
+      let res = await fetch(`${import.meta.env.VITE_APP_BACKEND_URL}/api/users/register`, {
         method: "POST",
         headers: {
           'Content-Type': 'application/json'

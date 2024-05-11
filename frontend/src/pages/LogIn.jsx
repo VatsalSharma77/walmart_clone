@@ -11,7 +11,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      let res = await fetch("http://localhost:5000/api/users/login", {
+      let res = await fetch(`${import.meta.env.VITE_APP_BACKEND_URL}/api/users/login`, {
         method: "POST",
         headers: {
           'Content-Type': 'application/json'
