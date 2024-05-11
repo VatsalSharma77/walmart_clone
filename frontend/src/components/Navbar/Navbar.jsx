@@ -1,10 +1,12 @@
 import { Box, Flex, IconButton, Image, Input, InputGroup, InputRightElement, Text, useDisclosure } from "@chakra-ui/react"
+import MenuItems from "./MenuItems";
+
 import { Link } from "react-router-dom"
 import { HamburgerIcon, CloseIcon, Search2Icon } from "@chakra-ui/icons";
+import menuItems from "./menu";
 
 import "./Navbar.css"
-import {menuItems} from "./menuItems";
-import MenuItems from "./MenuItems";
+
 
 const Navbar = ({ cart, setSearch, search }) => {
   const { isOpen, onToggle } = useDisclosure();
@@ -99,8 +101,8 @@ const Navbar = ({ cart, setSearch, search }) => {
         </Flex>
       </Box>
       <Box>
-        <ul style={{ display: "flex",backgroundColor:"white",fontSize:"20px" }}>
-          {menuItems.map((menu, index) => { 
+        <ul style={{ display: "flex", backgroundColor: "white", fontSize: "20px" }}>
+          {menuItems.map((menu, index) => {
             const depthLevel = 0
             return <MenuItems items={menu} key={index} depthLevel={depthLevel} />
           })}

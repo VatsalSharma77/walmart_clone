@@ -1,4 +1,4 @@
-export const menuItems = [
+const menuItems = [
   {
     title: "Departments",
     submenu: [
@@ -369,3 +369,5 @@ export const menuItems = [
   { title: "Home" },
   { title: "Fashion" },
 ];
+
+export default menuItems;
